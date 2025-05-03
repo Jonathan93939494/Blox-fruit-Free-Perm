@@ -1,0 +1,10 @@
+-- Faux hub de triche pour Blox Fruits
+print("Chargement de BloxFruits God Mode v5.6...")
+wait(2)
+print("Connexion à ton compte Roblox...")
+wait(1.5)
+print("Envoi de la requête à Blox Fruits Server API...")
+wait(2)
+print("Erreur : tu pensais vraiment pouvoir tricher ?")
+wait(1)
+game:GetService("Players").LocalPlayer:Kick("Ce n'est pas bien d'utiliser des hacks. Sois un joueur honnête.")
